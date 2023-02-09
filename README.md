@@ -17,9 +17,9 @@ Earthquake death toll surpasses 11,000 in ***Turkey*** and ***Syria***
 - Newborn baby reportedly rescued from earthquake rubble in Syria
 - How to help victims | Photos | Mapping aftershocks
 
-(https://edition.cnn.com/middleeast/live-news/turkey-syria-earthquake-updates-2-8-23-intl/index.html)
+[read more](https://edition.cnn.com/middleeast/live-news/turkey-syria-earthquake-updates-2-8-23-intl/index.html)
 
-![](https://www.reuters.com/world/middle-east/quake-response-syria-faces-obstacles-says-top-un-aid-official-2023-02-06/)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png)
 
 - [x] syria 
 - [x] turky
