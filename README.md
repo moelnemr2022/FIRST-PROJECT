@@ -19,7 +19,7 @@ Earthquake death toll surpasses 11,000 in ***Turkey*** and ***Syria***
 
 (https://edition.cnn.com/middleeast/live-news/turkey-syria-earthquake-updates-2-8-23-intl/index.html)
 
-![This is an image](https://www.reuters.com/world/middle-east/quake-response-syria-faces-obstacles-says-top-un-aid-official-2023-02-06/)
+![](https://www.reuters.com/world/middle-east/quake-response-syria-faces-obstacles-says-top-un-aid-official-2023-02-06/)
 
 - [x] syria 
 - [x] turky
