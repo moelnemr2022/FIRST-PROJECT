@@ -7,7 +7,7 @@
 ### turky
 ### syria 
 
-A series of dramatic photos show 8-year-old Yigit Cakmak being pulled from the rubble by emergency workers in Hatay, Turkey, 52 hours after the initial earthquake struck the region
+> A series of dramatic photos show 8-year-old Yigit Cakmak being pulled from the rubble by emergency workers in Hatay, Turkey, 52 hours after the initial earthquake struck the region
 
 
 
